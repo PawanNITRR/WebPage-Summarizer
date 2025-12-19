@@ -1,4 +1,4 @@
-const GEMINI_API_KEY = 'AIzaSyBvVd_8YFlAV8HkoaQt9d4El-f3MM1zt-A';
+const GEMINI_API_KEY = 'YOUR_API_KEY_HERE';
 const GEMINI_API_ENDPOINT = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
 
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {

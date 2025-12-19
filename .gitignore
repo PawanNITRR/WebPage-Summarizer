@@ -1,0 +1,22 @@
+# Environment variables
+.env
+.env.local
+
+# Node modules (if you use npm)
+node_modules/
+package-lock.json
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS files
+Thumbs.db
+
+# API keys and secrets
+**/config.js
+**/secrets.js

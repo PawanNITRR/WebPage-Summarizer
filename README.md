@@ -1,4 +1,4 @@
-# 🚀 Page Summarizer – Chrome Extension (Gemini 2.0)
+# 🚀 Page Summarizer – Chrome Extension
 
 A Chrome extension that intelligently summarizes any webpage using **Google Gemini 2.0 Flash API**.  
 It extracts meaningful content from the active tab and presents a **concise, structured summary** in real time.
@@ -28,5 +28,4 @@ It extracts meaningful content from the active tab and presents a **concise, str
 
 ---
 
-## 📁 Project Structure
 
